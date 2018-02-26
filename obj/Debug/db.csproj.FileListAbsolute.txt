@@ -1,0 +1,13 @@
+F:\_Core\db\bin\Debug\core.exe
+F:\_Core\db\bin\Debug\core.pdb
+F:\_Core\db\obj\Debug\core.exe
+F:\_Core\db\obj\Debug\core.pdb
+F:\_Core\db\obj\Debug\db.csprojResolveAssemblyReference.cache
+D:\_CS\db\obj\Debug\core.exe
+D:\_CS\db\obj\Debug\core.pdb
+G:\_CS\db\bin\Debug\core.exe
+G:\_CS\db\bin\Debug\core.pdb
+G:\_CS\db\obj\Debug\db.csprojResolveAssemblyReference.cache
+G:\_CS\db\obj\Debug\db.csproj.CoreCompileInputs.cache
+G:\_CS\db\obj\Debug\core.exe
+G:\_CS\db\obj\Debug\core.pdb
